@@ -4,5 +4,5 @@ def g(n):
 
 print(g(45))
 
-a = 34
+a = 257
 pass
